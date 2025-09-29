@@ -5,13 +5,6 @@ It serves as a personal archive to track progress, improve problem-solving skill
 
 ---
 
-## 📂 Structure
-- Each solution is stored in a separate file, usually named after the problem number and title.  
-- Solutions may include both **brute force** and **optimized** approaches where applicable.  
-- Explanations or comments are added for better understanding.
-
----
-
 ## 📌 Topics Covered
 - Arrays & Strings  
 - Linked Lists  
