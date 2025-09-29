@@ -3,7 +3,7 @@
 This file contains direct links to my solved LeetCode problems. 
 
 ---
-1. ##657 https://leetcode.com/problems/robot-return-to-origin/solutions/7232714/657-by-ayushsingh_01-w9mq
+1. #657 https://leetcode.com/problems/robot-return-to-origin/solutions/7232714/657-by-ayushsingh_01-w9mq
 2. #328  https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1747627316
 3. #80 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1750072123
 4. #299 https://leetcode.com/problems/bulls-and-cows/submissions/1750108872
